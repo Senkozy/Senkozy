@@ -43,8 +43,8 @@ If you know a few tricks or just wanna hang out and code, hit me up. I’m here 
 ## 📊 Statistiques GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Senkozy&show_icons=true&theme=dark&title_color=dc143c&icon_color=dc143c&text_color=c0c0c0&bg_color=B300FF" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Senkozy&layout=compact&theme=dark&title_color=dc143c&text_color=c0c0c0&bg_color=B300FF" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Senkozy&show_icons=true&theme=dark&title_color=dc143c&icon_color=dc143c&text_color=c0c0c0&bg_color=000000" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Senkozy&layout=compact&theme=dark&title_color=dc143c&text_color=c0c0c0&bg_color=000000" height="165" />
 </p>
 
 
